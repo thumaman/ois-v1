@@ -6,5 +6,9 @@ public class Deljitelji {
 
         System.out.println("ois je kren");
 
+        int a = 5;
+        int b = 4;
+
+
             }
         }
